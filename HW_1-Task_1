@@ -4,7 +4,7 @@ b = int(input("Please enter your second number: "))
 c = a + b
 print("Your result is " + str(c))
 
-#Substracting:
+#Subtracting:
 a = int(input("Please enter your first number: "))
 b = int(input("Please enter your second number: "))
 c = a - b
